@@ -1,0 +1,1 @@
+Use TypeScript, React, TailwindCSS, DaisyUI, React Query, and React Router.
